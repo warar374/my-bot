@@ -1,8 +1,7 @@
 import telebot
 from g4f.client import Client
 import os
-
-TOKEN = "5146231674:AAGTEBkzg1dPL40YNg1YNrHVMiNzuXIUd1M"
+5146231674:AAGRdCMYL9Ayy3bM1LCaDRkvqtHsLkQTII8"
 bot = telebot.TeleBot(TOKEN)
 client = Client()
 
